@@ -1,11 +1,11 @@
-## Hi there, I'm [Shreyas Lengade](https://kulkarnimandar96.wixsite.com/mandar)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
+## Hi there, I'm Shreyas Lengade <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
 <p>
  Tableau public link: <a href="https://public.tableau.com/app/profile/shreyas.lengade/vizzes">Click here</a>
 </p>
 
 <p>
   <em>
-    I'm a <b>Data science enthusiast</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and very passionate to work in this domain.
+    I'm am an <b>experienced Software Developer, Data science enthusiast</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and very passionate to work in these domains.
   </em>
  </p>
 
