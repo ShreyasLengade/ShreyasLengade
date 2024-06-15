@@ -37,6 +37,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
 <code><img height="40" src="https://github.com/ShreyasLengade/Github-Images/blob/9c73ab61a9504f6d812b5116bf0dad1fd4a54f7e/postgres.png" title="postgres"></code>
 <code><img height="40" src= "https://github.com/ShreyasLengade/Github-Images/blob/8c65a9b8c360e055eb2f970042ec6f30151ab239/swagger.png" title="swagger"></code>
+<code><img height="40" src= "https://github.com/ShreyasLengade/Github-Images/blob/65c5ccb073443a17c3996844adaa408a020cd15d/Tableau-Logo.png" title="tableau"></code>
 
 # Connect me on:
 LinkedIn: www.linkedin.com/in/shreyas-lengade-6b32971a3
