@@ -5,7 +5,7 @@
 
 <p>
   <em>
-    I'm am an <b>experienced Software Developer, Data science enthusiast</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and very passionate to work in these domains.
+    I'm am an <b>experienced Software Developer and Data science enthusiast</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and very passionate to work in these domains.
   </em>
  </p>
 
@@ -15,10 +15,11 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I have worked as Junior Software Engineer Intern at EduPlus
-- 🖋️ I completed my first Masters in Computer Applications from VIT institute, Pune city, INDIA 
-- 🖋️ I am currently pursuing Masters in Business Analytics till September 2024 from UCD, Dublin, Ireland
-- 📌 Scroll down to see my Pinned Repositories
+- 👨🏽‍💻 I have worked as Junior Software Engineer Intern at EduPlus.
+- 🖋️ I completed my first Masters in Computer Applications from VIT institute, Pune city, INDIA.
+- 🖋️ I am currently pursuing Masters in Business Analytics till September 2024 from UCD, Dublin, Ireland.
+- 👨🏻‍💼 I am looking for roles such as Data Engineer, Software Engineer, BI Developer, and BI Analyst.
+- 📌 Scroll down to see my Pinned Repositories.
 - 📫 Please email via lengadeshreyas06work@gmail.com to reach me;
 <br/> 
 </em>
