@@ -5,7 +5,7 @@
 
 <p>
   <em>
-    I'm am an <b>experienced Software Developer and Tester and Data science enthusiast</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and very passionate to work in these domains.
+    I'm am an <b>experienced Software Developer, Tester and Data science enthusiast</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and very passionate to work in these domains.
   </em>
  </p>
 
