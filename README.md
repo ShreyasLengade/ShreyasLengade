@@ -13,12 +13,12 @@
 
 <em>
   
-**Talking about Personal Stuffs:**
-
+**About Me:**
+- 👨🏻‍💼 I have Stamp 1G work permit (Irish Work Permit).
 - 👨🏽‍💻 I have worked as Junior Software Engineer Intern at EduPlus.
 - 🖋️ I completed my first Masters in Computer Applications from VIT institute, Pune city, INDIA.
-- 🖋️ I am currently pursuing Masters in Business Analytics till September 2024 from UCD, Dublin, Ireland.
-- 👨🏻‍💼 I am looking for roles such as Software Engineer, Data Engineer, BI Developer, and BI Analyst.
+- 🖋️ I have completed Masters in Business Analytics from Michael Smurfit Graduate Business School, Dublin 
+- 👨🏻‍💼 I am looking for roles such as Java Developer, Python Developer, Software Engineer, Data Engineer, BI Developer, and BI Analyst.
 - 📌 Scroll down to see my Pinned Repositories.
 - 📫 Please email via lengadeshreyas06work@gmail.com to reach me;
 <br/> 
