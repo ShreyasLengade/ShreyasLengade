@@ -14,7 +14,6 @@
 <em>
   
 **About Me:**
-- 👨🏻‍💼 I have Stamp 1G work permit (Irish Work Permit).
 - 👨🏽‍💻 I have worked as Junior Software Engineer at EduPlus and as a Software Developer in Nell Infotech.
 - 🖋️ I completed my first Masters in Computer Applications from VIT institute, Pune city, INDIA.
 - 🖋️ I have completed Masters in Business Analytics from Michael Smurfit Graduate Business School, Dublin 
