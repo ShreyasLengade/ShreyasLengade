@@ -1,7 +1,5 @@
 ## Hi there, I'm Shreyas Lengade <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
-<p>
- Tableau public link: <a href="https://public.tableau.com/app/profile/shreyas.lengade/vizzes">Click here</a>
-</p>
+
 
 <p>
   <em>
@@ -39,9 +37,15 @@
 <code><img height="40" src= "https://github.com/ShreyasLengade/Github-Images/blob/8c65a9b8c360e055eb2f970042ec6f30151ab239/swagger.png" title="swagger"></code>
 <code><img height="40" src= "https://github.com/ShreyasLengade/Github-Images/blob/65c5ccb073443a17c3996844adaa408a020cd15d/Tableau-Logo.png" title="tableau"></code>
 <code><img height="40" src= "https://github.com/ShreyasLengade/Github-Images/blob/a28426bd7f2b8028c1455365ba7ed2655be8e613/spring%20boot.png" title="spring boot"></code>
+<code><img height="40" src= "https://raw.githubusercontent.com/ShreyasLengade/Github-Images/refs/heads/main/aws.webp" title="AWS"></code>
+<code><img height="40" src= "https://github.com/ShreyasLengade/Github-Images/blob/9164ec55660506d6d495e44fdef2df300df7887f/azure.png" title="Azure"></code>
 
 # Connect me on:
 LinkedIn: www.linkedin.com/in/shreyas-lengade-6b32971a3
 
+# Check my Tableau dashboards
+<p>
+ Tableau public link: <a href="https://public.tableau.com/app/profile/shreyas.lengade/vizzes">Click here</a>
+</p>
 ## Note: Please do not spam on the above mentioned profile.
 
