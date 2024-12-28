@@ -5,7 +5,7 @@
 
 <p>
   <em>
-    I'm am an <b>experienced Full Stack Software Developer, QA Tester and Data science enthusiast</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and very passionate to work in these domains.
+    I'm an <b>experienced solutions developer with 4+ years of experience in data engineering, data analysis, qualtiy assurance and database management. </b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and very passionate to work in these domains.
   </em>
  </p>
 
@@ -14,8 +14,9 @@
 <em>
   
 **About Me:**
-- 👨🏽‍💻 I have worked as Junior Software Engineer at EduPlus and as a Software Developer in Nell Infotech.
-- 🖋️ I completed my first Masters in Computer Applications from VIT institute, Pune city, INDIA.
+- 👨🏽‍💻 I have worked as Junior Data Engineer at E-Mech Solutions and as a Software Developer in Nell Infotech.
+- 👨🏽‍💻 I have worked as Applications Analyst at Fuhrug Technologies.
+- 🖋️ I completed my Bachelors in Computer Applications from Shivaji University, Sangli, India.
 - 🖋️ I have completed Masters in Business Analytics from Michael Smurfit Graduate Business School, Dublin 
 - 👨🏻‍💼 I am looking for roles such as Data Engineer, BI Developer, BI Analyst, Software Engineer.
 - 📌 Scroll down to see my Pinned Repositories.
