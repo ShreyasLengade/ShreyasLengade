@@ -12,8 +12,6 @@
 <em>
   
 **About Me:**
-- 👨🏽‍💻 I have worked as Junior Data Engineer at E-Mech Solutions and as a Software Developer in Nell Infotech.
-- 👨🏽‍💻 I have worked as Applications Analyst at Fuhrug Technologies.
 - 🖋️ I completed my Bachelors in Computer Applications from Shivaji University, Sangli, India.
 - 🖋️ I have completed Masters in Business Analytics from Michael Smurfit Graduate Business School, Dublin 
 - 👨🏻‍💼 I am looking for roles such as Data Engineer, BI Developer, BI Analyst, Software Engineer.
