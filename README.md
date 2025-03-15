@@ -3,7 +3,7 @@
 
 <p>
   <em>
-    <b>I'm an <b>experienced Software Engineer with 4+ years of experience in Java, Spring Boot, JPA, RESTApi and Microservices. </b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and very passionate to work in these domains.
+    <b>I'm an <b>experienced Data Engineer with 4+ years of experience in Building scalable data pipelines, data modelling, data analysis and visualisations. </b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and very passionate to work in these domains.
   </em>
  </p>
 
@@ -14,7 +14,7 @@
 **About Me:**
 - 🖋️ I completed my Bachelors in Computer Applications from Shivaji University, Sangli, India.
 - 🖋️ I have completed Masters in Business Analytics from Michael Smurfit Graduate Business School, Dublin 
-- 👨🏻‍💼 I am looking for roles such as Software Engineer, Java Developer, Software Developer.
+- 👨🏻‍💼 I am looking for roles such as Data analyst, BI analyst, Business Analyst, Data Engineer.
 - 📌 Scroll down to see my Pinned Repositories.
 - 📫 Please email via lengadeshreyas06work@gmail.com to reach me;
 <br/> 
