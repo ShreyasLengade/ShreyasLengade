@@ -3,7 +3,7 @@
 
 <p>
   <em>
-    I'm an <b>experienced solutions developer with 4+ years of experience in data engineering, data analysis, qualtiy assurance and database management. </b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and very passionate to work in these domains.
+    I'm an <b>experienced solutions developer with 4+ years of experience in Software Developer, Software Engineer, Java Developer. </b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and very passionate to work in these domains.
   </em>
  </p>
 
